@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonggubums)](https://github.com/Yonggubums/github-readme-stats)
-
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Yonggubums)](https://github.com/Yonggubums)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gentlee's%20GitHub&desc=------------------------Sam%20Lee------------------------&fontSize=60)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Yonggubums&show_icons=true&theme=dracula)](https://github.com/Yonggubums)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonggubums&show_icons=true&theme=dracula)](https://github.com/Yonggubums/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
